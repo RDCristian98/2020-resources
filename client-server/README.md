@@ -1,2 +1,1 @@
-# CSDemo
-Client-Server Demo
+# Client-server sample
